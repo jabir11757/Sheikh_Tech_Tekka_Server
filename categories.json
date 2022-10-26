@@ -1,7 +1,8 @@
 [
     {
-        "id": "01",
+        "category_id": "01",
         "coursesName": "Software Development",
+        "title": "Roadmap for Software Development",
         "description": [
             "Roadmap for 1st and 2nd Year College Students",
             "Beginner to Advanced Roadmap for college students",
@@ -11,8 +12,9 @@
         ]
     },
     {
-        "id": "02",
+        "category_id": "02",
         "coursesName": "Digital Marketing",
+        "title": "Roadmap for Digital Marketing",
         "description": [
             "What is a Digital Marketing Roadmap?",
             "Creating a Digital Marketing Roadmap, What you should know?",
@@ -22,8 +24,9 @@
         ]
     },
     {
-        "id": "03",
+        "category_id": "03",
         "coursesName": "Graphics Design",
+        "title": "Roadmap for Graphics Design",
         "description": [
             "Roadmap for 1st and 2nd Year College Students",
             "Beginner to Advanced Roadmap for college students",
@@ -33,8 +36,9 @@
         ]
     },
     {
-        "id": "04",
+        "category_id": "04",
         "coursesName": "Robotics",
+        "title": "Roadmap for Robotics",
         "description": [
             "Roadmap for 1st and 2nd Year College Students",
             "Beginner to Advanced Roadmap for college students",
@@ -44,8 +48,9 @@
         ]
     },
     {
-        "id": "05",
+        "category_id": "05",
         "coursesName": "Cyber Security",
+        "title": "Roadmap for Cyber Security",
         "description": [
             "Roadmap for 1st and 2nd Year College Students",
             "Beginner to Advanced Roadmap for college students",
@@ -55,8 +60,9 @@
         ]
     },
     {
-        "id": "06",
+        "category_id": "06",
         "coursesName": "Game Development",
+        "title": "Roadmap for Game Development",
         "description": [
             "Roadmap for 1st and 2nd Year College Students",
             "Beginner to Advanced Roadmap for college students",

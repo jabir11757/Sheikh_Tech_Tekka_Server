@@ -1,0 +1,68 @@
+[
+    {
+        "id": "01",
+        "coursesName": "Software Development",
+        "description": [
+            "Roadmap for 1st and 2nd Year College Students",
+            "Beginner to Advanced Roadmap for college students",
+            "Service-Based Companies to Product-Based Companies",
+            "Non-Developer to Software Developer Roadmap",
+            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+        ]
+    },
+    {
+        "id": "02",
+        "coursesName": "Digital Marketing",
+        "description": [
+            "What is a Digital Marketing Roadmap?",
+            "Creating a Digital Marketing Roadmap, What you should know?",
+            "Why is it Important to have a Digital Marketing Roadmap?",
+            "Key Elements of a Digital Marketing Roadmap",
+            "Interview Preparation Roadmap -Sample Digital Road Map"
+        ]
+    },
+    {
+        "id": "03",
+        "coursesName": "Graphics Design",
+        "description": [
+            "Roadmap for 1st and 2nd Year College Students",
+            "Beginner to Advanced Roadmap for college students",
+            "Service-Based Companies to Product-Based Companies",
+            "Non-Developer to Software Developer Roadmap",
+            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+        ]
+    },
+    {
+        "id": "04",
+        "coursesName": "Robotics",
+        "description": [
+            "Roadmap for 1st and 2nd Year College Students",
+            "Beginner to Advanced Roadmap for college students",
+            "Service-Based Companies to Product-Based Companies",
+            "Non-Developer to Software Developer Roadmap",
+            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+        ]
+    },
+    {
+        "id": "05",
+        "coursesName": "Cyber Security",
+        "description": [
+            "Roadmap for 1st and 2nd Year College Students",
+            "Beginner to Advanced Roadmap for college students",
+            "Service-Based Companies to Product-Based Companies",
+            "Non-Developer to Software Developer Roadmap",
+            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+        ]
+    },
+    {
+        "id": "06",
+        "coursesName": "Game Development",
+        "description": [
+            "Roadmap for 1st and 2nd Year College Students",
+            "Beginner to Advanced Roadmap for college students",
+            "Service-Based Companies to Product-Based Companies",
+            "Non-Developer to Software Developer Roadmap",
+            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+        ]
+    }
+]

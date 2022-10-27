@@ -2,37 +2,31 @@
     {
         "id": "01",
         "picture": "https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
-        "courses": 6,
         "name": "Software Development"
     },
     {
         "id": "02",
         "picture": "https://assets.entrepreneur.com/content/3x2/2000/20190820185239-GettyImages-985550942.jpeg?crop=16:9",
-        "courses": 4,
         "name": "Digital Marketing"
     },
     {
         "id": "03",
         "picture": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
-        "courses": 5,
         "name": "Graphics Design"
     },
     {
         "id": "04",
         "picture": "https://www.iotworldtoday.com/files/2020/05/GettyImages-1184804468-789x432.jpg",
-        "courses": 4,
         "name": "Robotics"
     },
     {
         "id": "05",
         "picture": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Cybersecurity_Projects.jpg",
-        "courses": 8,
         "name": "Cyber Security"
     },
     {
         "id": "06",
         "picture": "https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-scaled.jpeg",
-        "courses": 5,
         "name": "Game Development"
     }
 ]

@@ -2,73 +2,79 @@
     {
         "category_id": "01",
         "coursesName": "Software Development",
-        "title": "Roadmap for Software Development",
-        "description": [
-            "Roadmap for 1st and 2nd Year College Students",
-            "Beginner to Advanced Roadmap for college students",
+        "picture": "https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
+        "title": "RoadMap for Software Development",
+        "roadMap": [
+            "roadMap for 1st and 2nd Year College Students",
+            "Beginner to Advanced roadMap for college students",
             "Service-Based Companies to Product-Based Companies",
-            "Non-Developer to Software Developer Roadmap",
-            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+            "Non-Developer to Software Developer roadMap",
+            "Interview Preparation roadMap - DSA, Machine Coding, etc."
         ]
     },
     {
         "category_id": "02",
         "coursesName": "Digital Marketing",
-        "title": "Roadmap for Digital Marketing",
-        "description": [
-            "What is a Digital Marketing Roadmap?",
-            "Creating a Digital Marketing Roadmap, What you should know?",
-            "Why is it Important to have a Digital Marketing Roadmap?",
-            "Key Elements of a Digital Marketing Roadmap",
-            "Interview Preparation Roadmap -Sample Digital Road Map"
+        "picture": "https://assets.entrepreneur.com/content/3x2/2000/20190820185239-GettyImages-985550942.jpeg?crop=16:9",
+        "title": "RoadMap for Digital Marketing",
+        "roadMap": [
+            "What is a Digital Marketing roadMap?",
+            "Creating a Digital Marketing roadMap, What you should know?",
+            "Why is it Important to have a Digital Marketing roadMap?",
+            "Key Elements of a Digital Marketing roadMap",
+            "Interview Preparation roadMap -Sample Digital Road Map"
         ]
     },
     {
         "category_id": "03",
         "coursesName": "Graphics Design",
-        "title": "Roadmap for Graphics Design",
-        "description": [
-            "Roadmap for 1st and 2nd Year College Students",
-            "Beginner to Advanced Roadmap for college students",
+        "picture": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
+        "title": "RoadMap for Graphics Design",
+        "roadMap": [
+            "roadMap for 1st and 2nd Year College Students",
+            "Beginner to Advanced roadMap for college students",
             "Service-Based Companies to Product-Based Companies",
-            "Non-Developer to Software Developer Roadmap",
-            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+            "Non-Developer to Software Developer roadMap",
+            "Interview Preparation roadMap - DSA, Machine Coding, etc."
         ]
     },
     {
         "category_id": "04",
         "coursesName": "Robotics",
-        "title": "Roadmap for Robotics",
-        "description": [
-            "Roadmap for 1st and 2nd Year College Students",
-            "Beginner to Advanced Roadmap for college students",
+        "picture": "https://www.iotworldtoday.com/files/2020/05/GettyImages-1184804468-789x432.jpg",
+        "title": "RoadMap for Robotics",
+        "roadMap": [
+            "roadMap for 1st and 2nd Year College Students",
+            "Beginner to Advanced roadMap for college students",
             "Service-Based Companies to Product-Based Companies",
-            "Non-Developer to Software Developer Roadmap",
-            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+            "Non-Developer to Software Developer roadMap",
+            "Interview Preparation roadMap - DSA, Machine Coding, etc."
         ]
     },
     {
         "category_id": "05",
         "coursesName": "Cyber Security",
-        "title": "Roadmap for Cyber Security",
-        "description": [
-            "Roadmap for 1st and 2nd Year College Students",
-            "Beginner to Advanced Roadmap for college students",
+        "picture": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Cybersecurity_Projects.jpg",
+        "title": "RoadMap for Cyber Security",
+        "roadMap": [
+            "roadMap for 1st and 2nd Year College Students",
+            "Beginner to Advanced roadMap for college students",
             "Service-Based Companies to Product-Based Companies",
-            "Non-Developer to Software Developer Roadmap",
-            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+            "Non-Developer to Software Developer roadMap",
+            "Interview Preparation roadMap - DSA, Machine Coding, etc."
         ]
     },
     {
         "category_id": "06",
         "coursesName": "Game Development",
-        "title": "Roadmap for Game Development",
-        "description": [
-            "Roadmap for 1st and 2nd Year College Students",
-            "Beginner to Advanced Roadmap for college students",
+        "picture": "https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-scaled.jpeg",
+        "title": "RoadMap for Game Development",
+        "roadMap": [
+            "RoadMap for 1st and 2nd Year College Students",
+            "Beginner to Advanced roadMap for college students",
             "Service-Based Companies to Product-Based Companies",
-            "Non-Developer to Software Developer Roadmap",
-            "Interview Preparation Roadmap - DSA, Machine Coding, etc."
+            "Non-Developer to Software Developer roadMap",
+            "Interview Preparation roadMap - DSA, Machine Coding, etc."
         ]
     }
 ]
